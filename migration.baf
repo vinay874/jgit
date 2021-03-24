@@ -1,0 +1,11 @@
+data: {"3306":[{"dsName":"mysql_04_feb2021","dbName":"wt_dm","userName":"wtdev","password":"Wtdev%321","dbhost":"wtcafe.c1x0ujb3stm7.us-west-2.rds.amazonaws.com"}],"spacekeys":["3306"],"emails":["priyanka.s@bdb.ai"],"fileName":"Mysql npl277963307780132743168.baf","designerMigration":true}
+consumerName: MIGRATIONPLUGIN
+serviceName: migrateContentDocuments
+isSecure: true
+spacekey: 3306
+
+consumerName: MIGRATIONPLUGIN
+serviceName: getAllBaffiles
+userID: 361037841
+data: {"docId":1474560,"getAll":"DocsAndFolders"}
+spacekey: 3306
